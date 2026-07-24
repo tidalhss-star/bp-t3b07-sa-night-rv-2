@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img">
-  <metadata>BPaaS site identity 2bfac2a9a6edbd3e</metadata>
-  <rect width="64" height="64" rx="16" fill="hsl(98 77% 46%)"/>
-  <path d="M33 0h31v64H19Z" fill="hsl(195 75% 75%)" opacity="0.82"/>
-  <g transform="rotate(108 32 32)" opacity="0.42"><rect x="16" y="16" width="32" height="32" rx="5" fill="none" stroke="#101418" stroke-width="7" transform="rotate(45 32 32)"/></g>
-  <text x="32" y="39" text-anchor="middle" fill="#101418" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="0">SN</text>
+  <title>상암 유흥 후기</title>
+  <rect width="64" height="64" rx="16" fill="hsl(98 75% 26%)"/>
+  <g transform="rotate(0 32 32)"><circle cx="16" cy="16" r="5" fill="hsl(98 24% 96%)"/><circle cx="32" cy="16" r="5" fill="hsl(98 24% 96%)"/><circle cx="48" cy="16" r="5" fill="hsl(98 24% 96%)"/><circle cx="16" cy="32" r="5" fill="hsl(98 24% 96%)"/><circle cx="32" cy="32" r="6" fill="hsl(217 68% 67%)"/><circle cx="48" cy="32" r="5" fill="hsl(98 24% 96%)"/><circle cx="16" cy="48" r="5" fill="hsl(98 24% 96%)"/><circle cx="32" cy="48" r="5" fill="hsl(98 24% 96%)"/><circle cx="48" cy="48" r="5" fill="hsl(98 24% 96%)"/></g>
 </svg>
